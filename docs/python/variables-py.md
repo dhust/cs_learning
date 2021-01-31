@@ -16,4 +16,3 @@ slug: /python
 name
 name2
 name3
-
