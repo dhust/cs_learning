@@ -2,7 +2,7 @@ module.exports = {
   title: 'Computer Science',
   tagline: 'CS Learning',
   url: 'https://dhust.github.io',
-  baseUrl: '/',
+  baseUrl: '/cs_learning/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -104,13 +104,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/dhust/cs_learning/edit/master/website/',
+            'https://github.com/dhust/cs_learning/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/dhust/cs_learning/edit/master/website/blog/',
+            'https://github.com/dhust/cs_learning/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -119,4 +119,3 @@ module.exports = {
     ],
   ],
 };
-
