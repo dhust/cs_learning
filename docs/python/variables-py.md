@@ -11,3 +11,7 @@ slug: /python
   int    --> 4
   float  --> 4.7
 ```
+
+## Naming
+name
+name2
